@@ -6,15 +6,14 @@ A personal backend API and frontend dashboard that hosts my professional profile
 
 ## 🌐 Live Demo
 
-- **Frontend (Dashboard):** [PASTE YOUR VERCEL LINK HERE]  
-- **Backend (API):** [PASTE YOUR RENDER LINK HERE]/health  
-- **Public Repository:** [PASTE YOUR GITHUB REPO LINK HERE]  
+- **Frontend (Dashboard):** https://me-api-playground-orpin.vercel.app/ 
+- **Backend (API):** https://me-api-playground-mucp.onrender.com/health  
+- **Public Repository:** https://github.com/abhinavvv-chauhan/me-api-playground
 
 ---
 
 ## 📄 Resume
-
-[PASTE LINK TO YOUR RESUME PDF OR GOOGLE DRIVE HERE]
+https://drive.google.com/file/d/17hlZpBgm43-OeIuacCABn5_c3_HUPsiF/view?usp=drive_link
 
 ---
 
