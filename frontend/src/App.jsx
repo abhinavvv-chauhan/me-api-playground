@@ -9,7 +9,7 @@ function App() {
   const [filteredProjects, setFilteredProjects] = useState([]);
 
   useEffect(() => {
-    axios.get('http://localhost:5000/api/profile')
+    axios.get('https://me-api-playground-mucp.onrender.com/api/profile')
       .then(response => {
         setProfile(response.data);
         setFilteredProjects(response.data.projects);
